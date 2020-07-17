@@ -1,5 +1,3 @@
-<img src="https://github.com/anujdutt9/anujdutt9/blob/master/banner.png">
-
 ### Hi there 👋
 
 <!--
