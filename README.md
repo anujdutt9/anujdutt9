@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am aspiring AI developer who is passionate about deep learning and it's efficient deployment on mobile and low power embedded devices. I love to work with technologies including TensorFlow, PyTorch, TensorFlow.js, CoreML, TFLite, STM32F4/F7/L4 to name a few.
+I am aspiring AI developer who is passionate about deep learning and it's efficient deployment on mobile and low power embedded devices. I love to work with technologies including TensorFlow, PyTorch, TensorFlow.js, CoreML, TFLite, STM32F4/F7/L4 to name a few. Please feel free to reach out to me 🙂
 
 <!--
 **anujdutt9/anujdutt9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
