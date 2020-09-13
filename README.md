@@ -22,7 +22,7 @@ I am aspiring AI developer who is passionate about deep learning and it's effici
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://anujdutt9.github.io/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/anujdutt92) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anujd9/) 
 [![Visits Badge](https://badges.pufler.dev/visits/anujdutt9/anujdutt9?style=for-the-badge)](https://github.com/anujdutt9/anujdutt9)
 
 </p>
