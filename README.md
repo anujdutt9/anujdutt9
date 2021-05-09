@@ -2,18 +2,12 @@
 
 I am aspiring AI developer who is passionate about deep learning and it's efficient deployment on mobile and low power embedded devices. I love to work with technologies including TensorFlow, PyTorch, TensorFlow.js, CoreML, TFLite, STM32F4/F7/L4 to name a few. Please feel free to reach out to me 🙂
 
-<!--
-**anujdutt9/anujdutt9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on efficient deployment of deep learning models on Android/iOS/Embedded systems/Web.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Computer Vision and Deep Learning.
+- ⚡ I’m interested in the area of TinyML and Computer Vision.
+- 🌱 I’m currently learning how to compress and optimize neural networks for embedded/mobile devices.
+- 👯 I’m always open to meaningful collaborations.
+- 😄 Pronouns: He/His
+- 📫 More details: [anujdutt9.github.io](https://anujdutt9.github.io/)
 
 <details open>
 <summary>🤝 <b>Connect with me</b></summary>
@@ -36,7 +30,7 @@ I am aspiring AI developer who is passionate about deep learning and it's effici
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=anujdutt9&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api?username=anujdutt9&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anujdutt9&hide=css,java,html&theme=tokyonight">
 </p>
 
