@@ -30,7 +30,7 @@ I am aspiring AI developer who is passionate about deep learning and it's effici
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=anujdutt9&show_icons=true&title_color=fff&icon_color=F50606&text_color=9f9f9f&bg_color=151515&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api?username=anujdutt9&show_icons=true&title_color=fff&icon_color=F50606&text_color=C8FFF1&bg_color=151515&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anujdutt9&hide=css,java,html&theme=tokyonight">
 </p>
 
